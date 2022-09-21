@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+fieldset#fs-index {
+    width: 400px; 
+    margin: 20px auto;
+}
